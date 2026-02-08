@@ -331,11 +331,8 @@ seaborn >= 0.12.0
   - T = avg terms per protein
   - D = max propagation depth
 
-## 🙋‍♂️ About
-
-**Author**: [Your Kaggle Username]  
+## 🙋‍♂️ About 
 **Competition**: CAFA 6 - Protein Function Prediction  
-**Date**: February 2025  
 **License**: MIT
 
 ---
