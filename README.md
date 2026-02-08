@@ -334,12 +334,4 @@ seaborn >= 0.12.0
 ## 🙋‍♂️ About 
 **Competition**: CAFA 6 - Protein Function Prediction  
 **License**: MIT
-
----
-
-**How to Use**:
-1. Upload base predictions to `submission.tsv`
-2. Run propagation pipeline
-3. Submit `submission_improved.tsv` to CAFA evaluation
-
 **Questions?** Open an issue or discuss on Kaggle!
